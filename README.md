@@ -1,4 +1,4 @@
-# BSNLProject in Selenium-Automation Testing.
+# BSNLProject in Selenium-Automation Testing(Java).
 This is a sample project for testing git/github functioning
 # Selenium
 

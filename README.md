@@ -1,11 +1,8 @@
 # BSNLProject in Selenium-Automation Testing(Java).
 This is a sample project for testing git/github functioning
 # Selenium
-
-[![CI](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml/badge.svg?branch=trunk&event=schedule)](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml)
-
-<a href="https://selenium.dev"><img src="common/images/selenium_logo_mark_green.svg" width="180" alt="Selenium Logo"/></a>
-
+This BSNL Project is developed by [Lavatech Technology](https://lavatechtechnology.com) and [BSNL](https://www.bsnl.co.in/) Team.
+this project initiated by department od IT and its purpose of testing by student information.
 Selenium is an umbrella project encapsulating a variety of tools and
 libraries enabling web browser automation. Selenium specifically
 provides an infrastructure for the [W3C WebDriver specification](https://w3c.github.io/webdriver/)
